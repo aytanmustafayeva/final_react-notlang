@@ -1,0 +1,681 @@
+{
+  "en": {
+    "services": "Our Services",
+    "projects": "Projects",
+    "contact": "Contact Us",
+    "about": "About Us",
+    "blogs": "Blogs",
+    "searchPlaceholder": "Search"
+  },
+  "ru": {
+    "services": "Наши услуги",
+    "projects": "Проекты",
+    "contact": "Свяжитесь с нами",
+    "about": "О нас",
+    "blogs": "Блоги",
+    "searchPlaceholder": "Поиск"
+  },
+  "az": {
+    "services": "Xidmətlərimiz",
+    "projects": "Layihələr",
+    "contact": "Bizimlə əlaqə",
+    "about": "Haqqımızda",
+    "blogs": "Bloqlar",
+    "searchPlaceholder": "Axtar"
+  },
+
+  "services": [
+    {
+      "id": 1,
+      "title": "Electrical and Mechanical 1",
+      "description": "Build modern web applications using React, Node.js, and more.",
+      "image": "./src/assets/contact_head_back_img.jfif",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Bespoke lighting designs",
+          "LED energy saving schemes",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Electrical and Mechanical 2",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/pro-serv-img.png",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "2Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Bespoke lighting designs",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "LED energy saving schemes",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Electrical and Mechanical 3",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/service-detail-img.png",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "mechanical": [
+          "3High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Electrical and Mechanical 4",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/service-head-back-img.png",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "4Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "4High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Electrical and Mechanical 5",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "5Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Electrical and Mechanical 6",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/projects-detail-img.png",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "mechanical": [
+          "6High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Electrical and Mechanical 7",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/service-detail-img.png",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "7Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Electrical and Mechanical 8",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/projects-detail-img.png",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "8Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Bespoke lighting designs",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "8High velocity lip extraction systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Electrical and Mechanical 9",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "9Domestic installations and maintenance",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "9High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "title": "Electrical and Mechanical 10",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/pro-serv-img.png",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "10Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "10High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "title": "Electrical and Mechanical 11",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/projects-detail-img.png",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "11Domestic installations and maintenance",
+          "Commercial installations and maintenance"
+        ],
+        "mechanical": [
+          "11High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "title": "Electrical and Mechanical 12",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./src/assets/contact_head_back_img.jfif",
+      "bgImage": "./src/assets/service-detail-head-back.png",
+      "details": {
+        "electrical": [
+          "12 Domestic installations and maintenance",
+          "Bespoke lighting designs",
+          "LED energyaving schemes",
+          "Fixed wiring inspection and testing",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "12High velocity lip extraction systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Electrical and Mechanical 1",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif",
+      "date": "September 15, 2021",
+      "client": "Industrial Company",
+      "location": "New York, USA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 2,
+      "title": "Electrical and Mechanical 2",
+      "description": "We were contracted to advise and improve the lighting in the main hall. Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+      "date": "September 30, 2019",
+      "client": "Mechanical Company",
+      "location": "Toronto, CA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 3,
+      "title": "Electrical and Mechanical 3",
+      "description": "Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/pro-serv-img.png",
+      "date": "October 15, 2023",
+      "client": "Industrial Company",
+      "location": "Chicago, USA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 4,
+      "title": "Electrical and Mechanical 4",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/projects-detail-img.png",
+      "date": "March 20, 2020",
+      "client": "IT Company",
+      "location": "Berlin, Germany",
+      "category": "Home Protection"
+    },
+    {
+      "id": 5,
+      "title": "Electrical and Mechanical 5",
+      "description": "Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years.",
+      "image": "./src/assets/service-head-back-img.png",
+      "date": "November 18, 2022",
+      "client": "Industrial Company",
+      "location": "New York, USA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 6,
+      "title": "Electrical and Mechanical 6",
+      "description": "The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/service-detail-img.png",
+      "date": "September 15, 2021",
+      "client": "Industrial Company",
+      "location": "New York, USA",
+      "category": "Home Protection"
+    },
+    {
+      "id": 7,
+      "title": "Electrical and Mechanical 7",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif",
+      "date": "July 24, 2024",
+      "client": "Farmer Company",
+      "location": "Milan, taly",
+      "category": "Home Protection"
+    }
+  ],
+
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog Title 1",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif",
+      "details": {
+        "electrical": [
+          "Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Bespoke lighting designs",
+          "LED energy saving schemes",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Blog Title 2",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/",
+      "details": {
+        "electrical": [
+          "Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Bespoke lighting designs",
+          "LED energy saving schemes",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Blog Title 3",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif",
+      "details": {
+        "electrical": [
+          "Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Bespoke lighting designs",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Blog Title 4",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/projects-detail-img.png",
+      "details": {
+        "electrical": [
+          "Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Bespoke lighting designs",
+          "LED energy saving schemes",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Bespoke lighting designs",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Blog Title 5",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/pro-serv-img.png",
+      "details": {
+        "electrical": [
+          "Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection"
+        ],
+        "mechanical": [
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Blog Title 6",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/contact_head_back_img.jfif",
+      "details": {
+        "mechanical": [
+          "High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "LED energy saving schemes",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Blog Title 7",
+      "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+      "details": {
+        "electrical": [
+          "Domestic installations and maintenance",
+          "Commercial installations and maintenance",
+          "Industrial installations and maintenance",
+          "Bespoke lighting designs",
+          "LED energy saving schemes",
+          "Fixed wiring inspection and testing",
+          "Fault finding and diagnostic",
+          "Portable appliance testing",
+          "PAT testing and other safety testing and inspection",
+          "High velocity lip extraction systems",
+          "Full Gas safety interlock supply and extract systems",
+          "Design, install, and maintain works with in-house workshop facilities"
+        ]
+      }
+    }
+  ],
+
+  "partners": [
+    {
+      "id": "1",
+      "image": "./src/assets/logo7.png"
+    },
+    {
+      "id": "2",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "3",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "4",
+      "image": "./src/assets/logo8.png"
+    },
+    {
+      "id": "5",
+      "image": "./src/assets/logo7.png"
+    },
+    {
+      "id": "6",
+      "image": "./src/assets/logo9.png"
+    },
+    {
+      "id": "7",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "8",
+      "image": "./src/assets/logo4.png"
+    },
+    {
+      "id": "9",
+      "image": "./src/assets/logo7.png"
+    },
+    {
+      "id": "10",
+      "image": "./src/assets/logo8.png"
+    },
+    {
+      "id": "11",
+      "image": "./src/assets/logo9.png"
+    },
+    {
+      "id": "12",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "13",
+      "image": "./src/assets/logo4.png"
+    },
+    {
+      "id": "14",
+      "image": "./src/assets/logo2.png"
+    },
+    {
+      "id": "15",
+      "image": "./src/assets/logo8.png"
+    },
+    {
+      "id": "16",
+      "image": "./src/assets/logo4.jpg"
+    },
+    {
+      "id": "17",
+      "image": "./src/assets/logo8.png"
+    },
+    {
+      "id": "18",
+      "image": "./src/assets/logo5.jpg"
+    },
+    {
+      "id": "19",
+      "image": "./src/assets/logo7.png"
+    },
+    {
+      "id": "20",
+      "image": "./src/assets/logo9.png"
+    }
+  ],
+
+  "about": [
+    {
+      "id": "1",
+      "title": "About EMS Contracting",
+      "description": "Founded by Mick Donkin and Kris Armstrong in 2013. We incorporate 3 divisions: Smart-metering, Renewables, and Recycling all from our head office in Sunderland. We employ a team of highly skilled engineers delivering multi-disciplinary projects which operate across the UK, offering a 24/7 service including emergency call out. We have a commitment to quality and a strong safety culture, ensuring that every job we do is completed correctly and safely. We pride ourselves on fostering a working culture that is based on our core values. This ensures the people that make EMS what it is can enjoy the best, most engaging, and safe environment possible. It's the people and our values that we believe set us apart in the industry.",
+      "image": "./src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+      "values": [
+        {
+          "value": "INTEGRITY",
+          "description": "Acting with strong ethics is a priority for everyone representing the organization as well as the company’s behaviour as a whole.",
+          "image": "./src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "Fairness",
+          "description": "Treating everyone with the common decency we all deserve and expect.",
+          "image": "./src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "Honesty",
+          "description": "It’s not just the best policy, it’s a core business practice to act in a transparent, trustworthy manner that earns the respect of colleagues, customers and the public.",
+          "image": "./src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "ACCOUNTABILITY",
+          "description": "Accepting responsibility for your actions (and inactions) is the ultimate way to build trust internally and externally.",
+          "image": "./src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "COMMITMENT TO DELIVER",
+          "description": "Creating a great customer experience begins with staying true to the words we speak and the bonds we make.",
+          "image": "./src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "DIVERSITY & INCLUSION",
+          "description": "Organisations succeed by bringing different lived experiences and a range of backgrounds into a shared environment where everyone has equal opportunity.",
+          "image": "./src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "LEARNING",
+          "description": "No one has all the answers. A culture of humility and continuous learning is a bedrock principle of successful companies.",
+          "image": "./src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "TEAMWORK",
+          "description": "When people work together, they can create something greater than themselves as individuals.",
+          "image": "./src/assets/about-brand-values-img.png"
+        }
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "name": "Mick Donkin",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team.png"
+    },
+    {
+      "id": "2",
+      "name": "Kris Armstrong",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team-member.png"
+    },
+    {
+      "id": "3",
+      "name": "Daryl Shepherd",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team2.png"
+    },
+    {
+      "id": "4",
+      "name": "Mick Donkin",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team.png"
+    },
+    {
+      "id": "5",
+      "name": "Kris Armstrong",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team-member.png"
+    },
+    {
+      "id": "6",
+      "name": "Daryl Shepherd",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team2.png"
+    },
+    {
+      "id": "7",
+      "name": "Mick Donkin",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team.png"
+    },
+    {
+      "id": "8",
+      "name": "Kris Armstrong",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team-member.png"
+    },
+    {
+      "id": "9",
+      "name": "Daryl Shepherd",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team2.png"
+    },
+    {
+      "id": "10",
+      "name": "Daryl Shepherd",
+      "email": "parashard641@gmail.com",
+      "image": "./src/assets/team2.png"
+    }
+  ]
+}
